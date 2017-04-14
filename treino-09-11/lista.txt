@@ -1,0 +1,27 @@
+    Podem ser feitos, via ghci (lambdas e/ou let), ou via programa 
+
+A)  Filtre os numeros pares de uma lista.
+B)  Filtre os ímpares de uma lista
+C)  Filtre os números primos de uma lista (Fazer uma funcao de checar primos)
+D)  Faça uma função que receba uma lista de inteiros e retorne o dobro de todos eliminando os múltplos de 4
+E)  Faça uma função que receba uma função (String -> String) e uma String e retorne o reverso da String que consiste
+    na aplicação da função recebida no outro parâmetro
+F)  Monte um currying da função hip :: Double -> Double -> Double hip x y = sqrt (x*x + y*y)
+G)  Dê um jeito de aplicar a função acima em uma lista de Doubles
+H)  Elimine todas as hipotenusas que não dê 1 de uma lista (Dê seu jeito!)
+I)  Faça um tipo Dia contendo os dias da semana. Faca uma função que receba uma lista de Dias e filtre as Terças.
+J)  Faça o tipo Dinheiro que contenha os campos valor e correncia (Real ou Dolar) e uma função que converta
+    todos os dinheiros de uma lista para dolar (e outra para real.)
+K)  Filtre todos os Dolares de uma lista de Dinheiro.
+L)  Faça um fold para somar todos os Dolares da lista.
+M)  Faça um fold para contar o número de Dolares da lista.
+N)  Faça um fold para contar negativos
+O)  Faça um fold para contar letras 'P'
+P)  Faça um fold para contar Sabados em uma lista de  [DiaSemana].
+Q)  Faça um fold para contar Trues de uma lista de Bool
+R)  Faça um fold para concatenar o reverso de palavras de uma lista de Strings
+S)  Faça um fold que a partir de uma lista de [DiaSemana] retorne a soma dos dias. 
+    Exemplo: [Segunda, Segunda, Quarta] deve retornar 5.
+
+
+

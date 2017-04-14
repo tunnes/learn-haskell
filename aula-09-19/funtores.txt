@@ -1,0 +1,3 @@
+Funtores:$this-> vish transformacao natural.
+
+Os funtores não se comportao bem com a composição.
